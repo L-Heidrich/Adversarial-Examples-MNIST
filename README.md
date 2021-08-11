@@ -2,8 +2,8 @@
 
 Scripts used in my thesis "Adversarial Examples: Attacks, Defenses and Implementations". The scripts use the libraries ART, Cleverhans and FoolBox to attack a CNN model created with Keras. The Model is created on MNIST images and with every attack also comes a visualisation of the adversarial examples and how the classification changed. For more information about about adversarial examples, or deep neural networks in general check out the docs folder in which you can find my thesis.
 
-Keras: https://keras.io/
-Tensorflow: https://www.tensorflow.org/
+Keras: https://keras.io/ <br />
+Tensorflow: https://www.tensorflow.org/ <br />
 
 # Libraries to create adversarial examples
 
